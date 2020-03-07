@@ -8,4 +8,4 @@
 
 **Known problems:**
 
-- Image scrapping: images could be queried using json. 
+- Web Scrapping Images:: images could be queried using json. 
