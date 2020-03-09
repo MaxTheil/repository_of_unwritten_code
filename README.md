@@ -8,4 +8,6 @@
 
 **Known problems:**
 
-- Web Scrapping Images:: images could be queried using json. 
+- Web Scrapping Images: images could be queried using json. 
+
+- Analysing Movie Data: Actors were not analysed.
