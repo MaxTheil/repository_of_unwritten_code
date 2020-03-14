@@ -11,3 +11,5 @@
 - Web Scrapping Images: 1.) Images could be queried using json. 
 
 - Analysing Movie Data: 1.) Actors were not analysed. 2.) Immaterial missings were dropped. However imputation might be better.
+
+- Query Twitter Data: work in progress
